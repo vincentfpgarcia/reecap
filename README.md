@@ -1,9 +1,9 @@
-# Promotional text
+## Promotional text
 
 Enjoy a peaceful board game by mesuring the luck factor!
 
 
-# Description
+## Description
 
 Reecap is an essential companion app for any board game to play with 2 dice. Have you ever played Catan and lost in spite of a perfect strategy? Did you have the feeling that other players were all playing against you? Reecap goal is to disperse any negative feeling by bringing a statistical point of view of the game. Post-game discussions become peaceful and insightful.
 
@@ -15,6 +15,6 @@ How to use Reecap:
 4. Compare visually the dice role probability against the expected probability
 
 
-# Keywords
+## Keywords
 
 board game, dice, catan, statistics, probability
